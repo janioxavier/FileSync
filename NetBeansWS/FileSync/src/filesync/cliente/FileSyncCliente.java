@@ -8,7 +8,7 @@ package filesync.cliente;
 import filesync.screens.MainScreen;
 
 /**
- *
+ * Comente as classes e seus métodos... Podem ser comentários simplistas
  * @author Reinaldo
  */
 public class FileSyncCliente {
